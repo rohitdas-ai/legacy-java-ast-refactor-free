@@ -8,4 +8,4 @@ This is an MCP (Model Context Protocol) server designed to act as a discovery ga
 ## Full Version
 The full premium skill performs deep AST parsing, resolves Maven dependencies, and seamlessly converts legacy Jakarta EE monoliths into Spring Boot 3.4 microservices. 
 
-👉 **[Run the Full Enterprise Version on MCPize](https://mcpize.com/mcp/core-logic)**
+👉 **[Run the Full Enterprise Version on MCPize](https://mcpize.com/mcp/legacy-java-microservices-refactor-mcp)**
